@@ -1,0 +1,8 @@
+com\spring\search\entities\Student.class
+com\spring\search\controller\FormController.class
+com\spring\search\config\AppConfig$1.class
+com\spring\search\config\AppConfig.class
+com\spring\search\controller\SearchController.class
+com\spring\search\controller\FileUploadController.class
+com\spring\search\config\DispatcherServletConfig.class
+com\spring\search\entities\Address.class
